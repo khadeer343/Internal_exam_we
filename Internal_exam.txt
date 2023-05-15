@@ -5,15 +5,15 @@ b. Destructuring
 c. ES6 classes
 d. Rest and Spread operators.
 e. Function generators
-3. Write a JavaScript program to check whether the given number is an absolute value or not 
+3. Write a JavaScript program to check whether the given number is an absolute value or not
 using async/await.
 4. Write a JavaScript program to find the sum of digits of a given number using async/await.
 5. Create Student Database in MongoDB and perform various CRUD operations.
-6. Create a real-time database in firebase for the student management system and perform 
+6. Create a real-time database in firebase for the student management system and perform
 various CRUD operations.
-7. Write a node program for creating a directory, reading the data from a file, and writing the 
+7. Write a node program for creating a directory, reading the data from a file, and writing the
 data to the file within the directory.
-8. Write a node program that creates two modules say count.js and app.js. export count.js and 
+8. Write a node program that creates two modules say count.js and app.js. export count.js and
 import it in app.js.
 9. Write a node program to work on the following modules.
 a. Fs
@@ -24,7 +24,7 @@ e. Streams and buffers
 10. Write a node program to serve HTML and JSON to the client.
 11. Write a node program to perform basic routing.
 12. Write an express program to perform Routing.
-13. Develop an Express application that responds to various routes (render EJS pages as a 
+13. Develop an Express application that responds to various routes (render EJS pages as a
 response)
 14. Create a REST API and perform various CRUD operations on that.
 15. Develop a React application for demonstrating props and state management.
@@ -37,3 +37,4 @@ response)
 22. Develop a React application for sending and receiving an array of objects in child component.
 23. Create a React application to demonstrate passing data from child to parent component.
 24. Create a React application for fetching API data using fetch API and axios
+25.Successfully cloned
